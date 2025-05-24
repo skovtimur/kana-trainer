@@ -1,0 +1,15 @@
+/home/timur/Desktop/kanaTrainer/bin/Debug/net8.0/kanaTrainer
+/home/timur/Desktop/kanaTrainer/bin/Debug/net8.0/kanaTrainer.deps.json
+/home/timur/Desktop/kanaTrainer/bin/Debug/net8.0/kanaTrainer.runtimeconfig.json
+/home/timur/Desktop/kanaTrainer/bin/Debug/net8.0/kanaTrainer.dll
+/home/timur/Desktop/kanaTrainer/bin/Debug/net8.0/kanaTrainer.pdb
+/home/timur/Desktop/kanaTrainer/obj/Debug/net8.0/kanaTrainer.GeneratedMSBuildEditorConfig.editorconfig
+/home/timur/Desktop/kanaTrainer/obj/Debug/net8.0/kanaTrainer.AssemblyInfoInputs.cache
+/home/timur/Desktop/kanaTrainer/obj/Debug/net8.0/kanaTrainer.AssemblyInfo.cs
+/home/timur/Desktop/kanaTrainer/obj/Debug/net8.0/kanaTrainer.csproj.CoreCompileInputs.cache
+/home/timur/Desktop/kanaTrainer/obj/Debug/net8.0/kanaTrainer.dll
+/home/timur/Desktop/kanaTrainer/obj/Debug/net8.0/refint/kanaTrainer.dll
+/home/timur/Desktop/kanaTrainer/obj/Debug/net8.0/kanaTrainer.pdb
+/home/timur/Desktop/kanaTrainer/obj/Debug/net8.0/kanaTrainer.genruntimeconfig.cache
+/home/timur/Desktop/kanaTrainer/obj/Debug/net8.0/ref/kanaTrainer.dll
+/home/timur/Desktop/kanaTrainer/obj/Debug/net8.0/kanaTrainer.sourcelink.json

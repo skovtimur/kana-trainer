@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Navigate to the project directory
+cd "/home/timur/Desktop/kanaTrainer/"
+
+# Parse parameters
+while getopts ":edg" opt; do
+  case $opt in
+    e)
+      PARAMS="$PARAMS -e"
+      ;;
+    d)
+      PARAMS="$PARAMS -d"
+      ;;
+    g)
+      PARAMS="$PARAMS -g"
+      ;;
+    \?)
+      echo "Invalid option: -$OPTARG" >&2
+      exit 1
+      ;;
+  esac
+done
+
+# Run the .NET application with the collected parameters
+dotnet run -- $PARAMS
